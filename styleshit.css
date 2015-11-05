@@ -1,0 +1,32 @@
+body {
+    background-color: #323236;
+}
+input[type="submit"]{
+    background-color:#1401982;
+}
+.site-navigationbar-container {
+    background-color: #303032;
+    display: inline;
+}
+a.active{
+    color:#1401982;
+}
+.subheader-container{
+    background-color: #474749;
+}
+.icon-container span:first-of-type{
+    color:#1401982;
+}
+.icon-container span:last-of-type{
+    color: white;
+}
+.banner-container{
+    left:100px;
+}
+.page-navigationbar-container{
+    display: inline;
+    background-color:#1401982;
+}
+ul{
+    color: white;
+}
